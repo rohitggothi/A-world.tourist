@@ -962,7 +962,7 @@ input[name="r"] {
         font-weight: bold;
         position: absolute;
         top: 15%;
-        left: 40%;
+        left: 35%;
 
     }
 
@@ -1005,7 +1005,8 @@ input[name="r"] {
     }
     .message-form textarea{
         position: relative;
-        right: 6.5%;
+        left: 11%;
+        margin: 0px;
     }
 
     .message-btn {
@@ -1017,7 +1018,8 @@ input[name="r"] {
         padding: 10px 0px;
         border-radius: 30px;
         border: 0;
-        margin-left: 400px;
+        position: relative;
+        left: -25%;
        
     }
 
