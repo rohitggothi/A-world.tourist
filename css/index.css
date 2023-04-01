@@ -969,7 +969,7 @@ input[name="r"] {
     .footer-item a:hover {
         background-color: white;
         color: #2b2278;
-        transition: 0.7s;
+        transition: 0.6s;
         border: 1px solid black;
         cursor: pointer;
     }
